@@ -1,7 +1,7 @@
 {
   "project": "FrenchQuenQuen Card Collector",
   "manifest_version": 1,
-  "status": "online",
+  "status": "online-test",
 
   "archives": [
     {
