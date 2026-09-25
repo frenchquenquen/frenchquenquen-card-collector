@@ -38,3 +38,17 @@
     }
   ]
 }
+    "video": ""
+  },
+
+  {
+    "id": 99,
+    "title": "ARCHIVE #99",
+    "enabled": true,
+    "trigger": {
+      "type": "favorites",
+      "cards": [10, 31]
+    },
+    "video": ""
+  }
+]
