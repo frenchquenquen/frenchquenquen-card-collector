@@ -1,7 +1,7 @@
 {
   "project": "FrenchQuenQuen Card Collector",
   "manifest_version": 1,
-  "status": "online-test",
+  "status": "online",
 
   "archives": [
     {
@@ -33,17 +33,6 @@
       "trigger": {
         "type": "favorites",
         "cards": [10, 22]
-      },
-      "video": ""
-    },
-
-    {
-      "id": 99,
-      "title": "ARCHIVE #99",
-      "enabled": true,
-      "trigger": {
-        "type": "favorites",
-        "cards": [10, 31]
       },
       "video": ""
     }
